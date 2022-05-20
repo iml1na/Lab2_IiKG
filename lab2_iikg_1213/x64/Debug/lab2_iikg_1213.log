@@ -1,0 +1,4 @@
+﻿  lab2_iikg_1213.cpp
+C:\Users\Аделина\source\repos\lab2_iikg\lab2_iikg_1213\lab2_iikg_1213.cpp(88,49): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\Аделина\source\repos\lab2_iikg\lab2_iikg_1213\lab2_iikg_1213.cpp(121,37): warning C4267: =: преобразование из "size_t" в "GLint"; возможна потеря данных
+  lab2_iikg_1213.vcxproj -> C:\Users\Аделина\source\repos\lab2_iikg\x64\Debug\lab2_iikg_1213.exe
